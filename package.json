@@ -2,5 +2,28 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-connect": "^5.0.0"
-  }
+  },
+  "name": "livereload",
+  "description": "**1.** Preparando o ambiente:",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besopmac/livereload.git"
+  },
+  "keywords": [
+    "livereload",
+    "gulp",
+    "gulp-connect"
+  ],
+  "author": "Bruno Campos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/besopmac/livereload/issues"
+  },
+  "homepage": "https://github.com/besopmac/livereload#readme"
 }
