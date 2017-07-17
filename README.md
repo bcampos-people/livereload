@@ -3,7 +3,7 @@
 **1.** Preparando o ambiente:
 
 ```sh
-$ sudo npm install -g gulp-cli
+$ npm install -g gulp-cli
 $ npm install gulp -D
 ```
 
@@ -12,7 +12,7 @@ $ npm install gulp -D
 ```sh
 $ git clone
 $ cd livereload
-$ sudo npm install
+$ npm install
 ```
 **3.** Iniciando o servidor e LiveReload:
 
