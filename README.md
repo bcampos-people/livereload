@@ -4,6 +4,7 @@
 
 ```sh
 $ sudo npm install -g gulp-cli
+$ npm install gulp -D
 ```
 
 **2.** Clonando o projeto e instalando as dependências:
